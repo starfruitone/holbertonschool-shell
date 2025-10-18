@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH="12" $PATH="11" | echo $((PATH+$PATH))
